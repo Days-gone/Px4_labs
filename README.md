@@ -1,7 +1,9 @@
 # Px4_labs
 a lab and learning experience
 ## takeoff_node
-to be filled
+to be filled and uploaded
+## square_node
+to befilled and uploaded
 ## circle_node
 1、One thing you should notice that is - there are limits on the type_mask based of coordinate frame.
 2、Change your type_mask code according to the report or error from the pxh!
